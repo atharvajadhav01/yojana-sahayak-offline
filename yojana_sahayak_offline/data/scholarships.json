@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Demo Merit Scholarship for 12th Pass Students",
+    "short_description": "Demonstration record for students continuing higher education.",
+    "education": ["12th", "Undergraduate"],
+    "categories": ["all"],
+    "max_income": 300000,
+    "eligibility": "12th pass or undergraduate student; annual family income up to ₹3 lakh in this demo record.",
+    "documents": ["Marksheet", "Income certificate", "Identity/domicile proof"],
+    "official_link": "https://scholarships.gov.in/"
+  },
+  {
+    "name": "Demo Category Support Scholarship",
+    "short_description": "Demonstration record for eligible reserved-category students.",
+    "education": ["10th", "12th", "Diploma", "Undergraduate", "Postgraduate"],
+    "categories": ["SC", "ST", "OBC"],
+    "max_income": 250000,
+    "eligibility": "SC/ST/OBC student; annual family income up to ₹2.5 lakh in this demo record.",
+    "documents": ["Marksheet", "Category certificate", "Income certificate", "Domicile proof"],
+    "official_link": "https://scholarships.gov.in/"
+  },
+  {
+    "name": "Demo Higher Education Support",
+    "short_description": "Demonstration record for undergraduate and postgraduate learners.",
+    "education": ["Undergraduate", "Postgraduate"],
+    "categories": ["General", "OBC", "SC", "ST", "Minority"],
+    "max_income": 500000,
+    "eligibility": "Higher-education student; annual family income up to ₹5 lakh in this demo record.",
+    "documents": ["Current marksheet", "Income certificate", "Admission proof"],
+    "official_link": "https://www.myscheme.gov.in/"
+  }
+]
